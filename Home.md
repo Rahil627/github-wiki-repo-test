@@ -1,5 +1,11 @@
 I prefer just editing text files... well, let’s check out the repo files...
 
+oooooh snap. no files
+
+https://stackoverflow.com/questions/18759738/effortless-export-from-github-wiki
+
+the github wiki is a repo itself!... then can find and edit the text..
+
 —-
 
 
