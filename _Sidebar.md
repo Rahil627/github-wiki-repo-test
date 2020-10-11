@@ -1,5 +1,5 @@
-how to make a sidebar?
-oh
-i
-see
-now
+* how to make a sidebar?
+* oh
+* i
+* see
+* now
